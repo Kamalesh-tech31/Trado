@@ -4,6 +4,10 @@ A virtual stock trading platform for the Indian market. Practice trading Nifty s
 
 **Live demo:** https://trado-6e83.onrender.com
 
+## About
+
+Trado started as a simple idea: help everyone understand trading. Most people find the stock market intimidating, so Trado lets you practice with virtual money, see how your choices affect your portfolio, and learn the basics along the way, with no real money at risk.
+
 ## Features
 
 - **Accounts:** registration, login, OTP email verification, password reset, Google sign-in, user onboarding and investor profile
@@ -78,6 +82,4 @@ npm run dev
 - If Yahoo Finance is unavailable, there is no cached fallback.
 - There are no automated tests yet.
 
-- **Kamalesh K:** _add your part here_
-
-_Add teammates and their parts here._
+**Recognition:** Trado was selected for the finals of TNX Codeathon 2K26 (organised by TechNeekX).
